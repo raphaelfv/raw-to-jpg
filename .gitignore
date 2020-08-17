@@ -3,3 +3,4 @@
 *.cr2
 *.pyc
 .env
+virtualenv/
