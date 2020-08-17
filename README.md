@@ -5,4 +5,5 @@ A `requirements.txt` file is included, however, additional setup is required bec
 
 ## USAGE:
 `python raw-to-jpg.py <file>`
+`python raw-to-jpg-folder.py <folder>`
 
